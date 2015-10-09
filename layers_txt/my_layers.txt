@@ -17,8 +17,8 @@
       "id": "std",
       "title": "保育園（北海道）",
       "iconUrl": "",
-      "url": "https://github.com/2525map/gsimaps/blob/gh-pages/exmaple231/{z}/{x}/{y}.geojeson,
-      "html": "<a href='https://github.com/2525map/gsimaps/blob/gh-pages/layers_txt/my_layers.txt'>編集</a>',
+      "url": "https://github.com/2525map/gsimaps/blob/gh-pages/exmaple231/{z}/{x}/{y}.geojeson",
+      "html": "<a href='https://github.com/2525map/gsimaps/blob/gh-pages/layers_txt/my_layers.txt'>編集</a>",
       "maxZoom": 18,
       "maxNativeZoom": 2
     }
