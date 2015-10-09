@@ -3909,3 +3909,20 @@ form {
 .gsi_onoffswitch_visible .on_label_switch {
     right: 0; 
 }
+
+#title_logo_upper {
+	font-family:'ヒラギノ丸ゴ Pro W4','ヒラギノ丸ゴ Pro','Hiragino Maru Gothic Pro','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','HG丸ｺﾞｼｯｸM-PRO','HGMaruGothicMPRO';
+	margin-top:3px;
+	text-align:center;
+	font-size:12px;
+	color:#fff;
+	line-height:12px;
+}
+
+#title_logo_lower {
+	font-family:'ヒラギノ丸ゴ Pro W4','ヒラギノ丸ゴ Pro','Hiragino Maru Gothic Pro','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','HG丸ｺﾞｼｯｸM-PRO','HGMaruGothicMPRO';
+	text-align:center;
+	font-size:11px;
+	color:#fff;
+	line-height:11px;
+}
