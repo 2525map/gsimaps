@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
+                                                                             
 "features": [
 { "type": "Feature", "properties": { "HID": 2, "Type": "認可保育所", "Name": "村立幌呂保育園", "Label": "幌呂", "Add1": "阿寒郡鶴居村", "Add2": "幌呂西3丁目18番地", "Ownership": "市区町村", "Full": 50, "Type2": "へき地保育所", "Kodomo": null, "X": 144.261717, "Y": 43.196729 }, "geometry": { "type": "Point", "coordinates": [ 144.261717, 43.196729 ] } },
 { "type": "Feature", "properties": { "HID": 3, "Type": "認可保育所", "Name": "村立鶴居保育園", "Label": "鶴居", "Add1": "阿寒郡鶴居村", "Add2": "鶴居西6丁目1番地", "Ownership": "市区町村", "Full": 60, "Type2": "へき地保育所", "Kodomo": null, "X": 144.320348, "Y": 43.232311 }, "geometry": { "type": "Point", "coordinates": [ 144.320348, 43.232311 ] } },
